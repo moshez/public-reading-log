@@ -8,3 +8,4 @@ Moshe reads.
 .. toctree::
 
     words-of-radiance
+    making-great-decisions
