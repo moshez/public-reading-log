@@ -10,3 +10,5 @@ Moshe reads.
     words-of-radiance
     making-great-decisions
     software-abstractions
+    existence
+    accelerate
