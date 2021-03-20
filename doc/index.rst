@@ -14,3 +14,4 @@ Moshe reads.
     accelerate
     freakonomics
     packing-for-mars
+    the-signal-and-the-noise
