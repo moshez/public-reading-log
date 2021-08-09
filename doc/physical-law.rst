@@ -52,7 +52,7 @@ and that group is called
 Before
 Noether_
 
-.. _Noether: https://en.wikipedia.org/wiki/Emmy_Noether?
+.. _Noether: https://en.wikipedia.org/wiki/Emmy_Noether
 
 One of the fundamantal properties of physical law,
 according to the book,
@@ -84,7 +84,6 @@ even as the details of the physical systems change.
 
 .. _math: https://en.wikipedia.org/wiki/Primary_decomposition
 .. _revolutionizing: https://en.wikipedia.org/wiki/Noetherian_ring
-.. _Noether: https://en.wikipedia.org/wiki/Emmy_Noether
 .. _important theorem: https://en.wikipedia.org/wiki/Noether%27s_theorem
 
 He does not mention
